@@ -1,0 +1,1 @@
+Code giả lập khi khởi tạo dự án
